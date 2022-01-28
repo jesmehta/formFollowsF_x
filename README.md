@@ -3,4 +3,4 @@ My generative art and interactive sketches
 
 ## Vera Molnar studies
 
-[Slash Grids](/formFollowsF_x/Slashgrid/)
+[Slash Grids](/formFollowsF_x/Slashgrid/index.html)
